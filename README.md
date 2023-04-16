@@ -1,6 +1,8 @@
 # chatgpt-playground
 Ein kleiner Wrapper, um über die API mit OpenAI GPT chatten zu können. 
 
+![chatgpt-Demo](./chatgpt-demo.png)
+
 ## Was man braucht
 - Ein Google-Konto (um das Notebook in Colab auszuführen); ersatzweise eine lokale juPyter-Installation
 - Ein gültiges Token für die OpenAI-API
