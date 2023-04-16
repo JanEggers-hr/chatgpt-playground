@@ -8,7 +8,7 @@ Ein kleiner Wrapper, um über die API mit OpenAI GPT chatten zu können.
 - Ein gültiges Token für die OpenAI-API
 
 ## Wie man es nutzt
-- Das [Notebook](./chatgpt_fuer_alle.ipynb) in Colab öffnen
+- Das [Notebook](./chatgpt_fuer_alle.ipynb) anklicken und den "Open in Colab"-Button anklicken. (Also: in Googles Colab öffnen)
 - Das kleine "Play"-Dreieck bei der ersten Code-Zelle anklicken - die Vorbereitungen werden ausgeführt
 - Das kleine "Play"-Dreieck bei der nächsten Code-Zelle anklicken - und die Fragen an den Bot ins "Du: "-Eingabefeld tippen und mit Return abschicken.
 
