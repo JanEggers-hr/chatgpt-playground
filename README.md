@@ -15,7 +15,3 @@ Ein kleiner Wrapper, um über die API mit OpenAI GPT chatten zu können.
 ## Bekannte Probleme
 - Anders als chatGPT formatiert das Skript die Ausgaben (noch) nicht sehr schön. Das wird am deutlichsten bei Gedichten oder bei Programmiercode.
 - Manchmal verschluckt das Eingabefeld die letzten ein, zwei Zeichen - dann ein Momentchen warten, bis man Return drückt. 
-
-# TalkToPDF
-
-Ein Experiment: [Das Notebook **TalkToPdf**](./TalkToPDF.ipynb) ist eine Variante des "Playgrounds", mit dem man ein PDF hochladen und das Sprachmodell dazu befragen kann.  
