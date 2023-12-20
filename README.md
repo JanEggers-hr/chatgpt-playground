@@ -30,11 +30,11 @@ Ein kleiner Wrapper, um über die API mit OpenAI GPT chatten zu können.
 Ein paar Spinoffs finden sich auch noch in diesem Repository: 
 
 - Ein [Notebook zum kostenlosen Konvertieren von Audiodateien in Text](./whisper_audio_conversion.ipynb) mit Whisper-jax.
+- - Eine [Auflistung der aktuellen OpenAI-Modelle auf der API](./list_openai_models.ipynb)
 
-Die hier sind etwas älter und werden womöglich nicht mehr funktionieren, weil OpenAI im November 2023 die API verändert hat - ich versuche, sie nach und nach zu reparieren; gern einfach mer Mail nachbohren. 
+Die hier sind etwas älter und werden nicht mehr funktionieren, weil OpenAI im November 2023 die API verändert hat - ich versuche, sie nach und nach zu reparieren; gern einfach per Direktnachricht nachbohren. 
 - ["Harald" - der sarkastische Chatbot von Claus Hesseling](Pubquiz_chatgpt.ipynb). Schaffst du es, sein System-Prompt und sein Stoppwort zu erfragen, ohne in den Code zu gucken?
 - Eine kleine Open-Source-[Speech-to-Text-Demo](./Sprich_v01.ipynb).
 - Ein [Experiment, um ganze PDFs in einen kleinen Kontext zu quetschen](./TalkToPDF.ipynb) - indem das Modell selbst Zusammenfassungen liefert
-- Eine [Auflistung der aktuellen OpenAI-Modelle auf der API](./list_openai_models.ipynb)
 
 
