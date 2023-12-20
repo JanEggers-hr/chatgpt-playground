@@ -35,6 +35,6 @@ Die hier sind etwas älter und werden womöglich nicht mehr funktionieren, weil 
 - ["Harald" - der sarkastische Chatbot von Claus Hesseling](Pubquiz_chatgpt.ipynb). Schaffst du es, sein System-Prompt und sein Stoppwort zu erfragen, ohne in den Code zu gucken?
 - Eine kleine Open-Source-[Speech-to-Text-Demo](./Sprich_v01.ipynb).
 - Ein [Experiment, um ganze PDFs in einen kleinen Kontext zu quetschen](./TalkToPDF.ipynb) - indem das Modell selbst Zusammenfassungen liefert
-- Eine [Auflistung der aktuellen OpenAI-Modelle auf der API](./ist_openai_models.ipynb)
+- Eine [Auflistung der aktuellen OpenAI-Modelle auf der API](./list_openai_models.ipynb)
 
 
