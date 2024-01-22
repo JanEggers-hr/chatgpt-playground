@@ -38,5 +38,3 @@ Die hier sind etwas älter und werden nicht mehr funktionieren, weil OpenAI im N
 
 - Eine kleine Open-Source-[Speech-to-Text-Demo](./Sprich_v01.ipynb).
 - Ein [Experiment, um ganze PDFs in einen kleinen Kontext zu quetschen](./TalkToPDF.ipynb) - indem das Modell selbst Zusammenfassungen liefert
-
-
