@@ -30,6 +30,7 @@ Ein kleiner Wrapper, um über die API mit OpenAI GPT chatten zu können.
 Ein paar Spinoffs finden sich auch noch in diesem Repository: 
 
 - Ein [Notebook zum kostenlosen Konvertieren von Audiodateien in Text](./whisper_audio_conversion.ipynb) mit Whisper-jax.
+- [Kategorisierung und Auswertung von Antworten auf offene Fragen](./offene_fragen_auswerten_mit_ki.ipynb) - Bildung der Kategorien auf Basis einer Stichprobe und mit menschlicher Unterstützung; dann Zuordnung der Antworten zu den gefundenen Kategorien. 
 - Eine [Auflistung der aktuellen OpenAI-Modelle auf der API](./list_openai_models.ipynb)
 - ["Harald" - der sarkastische Chatbot von Claus Hesseling](./harald_gpt.ipynb). Schaffst du es, sein System-Prompt und sein Stoppwort zu erfragen, ohne in den Code zu gucken?
 - Wie stark beeinflusst der Zufall die Antworten von ChatGPT? Ein kleines [Experiment, das immer wieder dieselbe Frage stellt und die Antworten beurteilt](https://github.com/JanEggers-hr/GPT-Zufalls-Experiment). 
